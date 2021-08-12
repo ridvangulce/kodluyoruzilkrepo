@@ -1,11 +1,6 @@
 # Ödev
 
------------
-
 ## GitHub'ta Repo İşlemleri
-
------------
-
 
 
 - GitHub'ta bir repo açıp adını ***"kodluyoruzilkrepo"*** koyun.
