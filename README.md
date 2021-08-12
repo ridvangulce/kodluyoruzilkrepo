@@ -1,8 +1,8 @@
-#Ödev
+# Ödev
 
 -----------
 
-##GitHub'ta Repo İşlemleri
+## GitHub'ta Repo İşlemleri
 
 -----------
 
